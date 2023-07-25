@@ -1,0 +1,9 @@
+Pranker App Architecture
+
+The Pranker app follows a client-server architecture. The client-side of the app is built using HTML, CSS, and JavaScript, while the server-side is implemented using Node.js and Express.js.
+
+The app uses a RESTful API to communicate between the client and server. The client sends HTTP requests to the server to perform various actions, such as creating pranks, retrieving pranks, and updating pranks.
+
+The server processes these requests and interacts with a database to store and retrieve prank data. The app uses MongoDB as the database to store prank information.
+
+Overall, the Pranker App app is designed to provide a fun and interactive platform for users to create and share pranks with others.
