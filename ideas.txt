@@ -1,0 +1,15 @@
+To add more fun and functionality to your prank app, you can consider the following ideas:
+
+1. Prank Categories: Organize prank templates into different categories such as funny pranks, scary pranks, or office pranks. Allow users to browse and select pranks from specific categories.
+
+2. Prank Scheduler: Implement a feature that allows users to schedule pranks for specific dates and times. This can add an element of surprise and anticipation to the pranks.
+
+3. Prank Sharing: Enable users to share their favorite pranks with others through social media or messaging platforms. This can encourage user engagement and viral sharing of pranks.
+
+4. Prank History and Statistics: Keep track of the pranks executed by each user and provide statistics such as the most popular prank, the most active user, or the success rate of pranks.
+
+5. User Accounts: Implement user account functionality to allow users to save their favorite pranks, track their prank history, and customize their prank settings.
+
+6. Prank Ideas Generator: Provide a feature that generates random prank ideas or suggestions for users who need inspiration.
+
+Remember to always consider the ethical implications of pranks and ensure that they are harmless and consensual.
